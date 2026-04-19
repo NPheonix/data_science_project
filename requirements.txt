@@ -1,3 +1,7 @@
 numpy 
 pandas
+python-dotenv #it is used for reading details from the env file (like password etc)
+mysql-connector-python
+pymysql
+scikit-learn
 #-e .
